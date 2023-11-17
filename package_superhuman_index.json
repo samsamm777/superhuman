@@ -8,7 +8,7 @@
 
       "platforms": [
         {
-          "name": "SHK9",
+          "name": "Superhuman Boards",
           "architecture": "avr",
           "version": "1.0.0",
           "category": "Contributed",
@@ -17,7 +17,7 @@
           "checksum": "SHA-256:1e763704697d3d4137ded4ab3bb73bb30f8e03393606fa7ed7e1ef7840e01c7f",
           "size": "75564",
           "boards": [
-            {"name": "Pololu A-Star 32U4"}
+            {"name": "SHK9 32U4"}
           ],
           "toolsDependencies": []
         }
